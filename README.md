@@ -2,7 +2,7 @@
 
 <p>JSM Pro is a cutting-edge web application developed with a modern stack including React, Next.js, TypeScript, Tailwind CSS, Sanity, and Node.js. This application is designed to provide a professional and seamless experience for managing content, showcasing the power of a robust frontend framework combined with a versatile content management system.</p> 
 
-
+<img src='https://github.com/lucas1337dev/jsm_pro_clone/blob/main/public/jsm-pro-clone.vercel.app_.png' alt="Project Image" />
 
 <h2>Live Project</h2>
 <a href="https://jsm-pro-clone.vercel.app/">Click Here</a>
